@@ -1,0 +1,4 @@
+.p {
+    display:grid;
+    justify-content: flex-start;
+}
