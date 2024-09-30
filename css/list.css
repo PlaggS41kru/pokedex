@@ -1,4 +1,11 @@
-.p {
-    display:grid;
+.info{
     justify-content: flex-start;
+}
+
+.bio{
+    justify-content: flex-start;
+}
+
+.poke__id{
+    justify-self: flex-end;
 }
